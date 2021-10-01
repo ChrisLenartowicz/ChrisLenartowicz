@@ -6,5 +6,7 @@ Don't follow me anywhere!
 
 Most Used Languages by me: <b><em>Nothing</em></b>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chrisLenartowicz&hide=prs&theme=tokyonight)]
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisLenartowicz)]
+<div>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=chrisLenartowicz&hide=prs&theme=tokyonight" />
+  <img width="50%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisLenartowicz&theme=tokyonight" />
+<div>
