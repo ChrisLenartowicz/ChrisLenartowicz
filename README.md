@@ -9,6 +9,6 @@
 </div>
   
 <div>
-  <img width="500px" height="200px" src="https://github-readme-stats.vercel.app/api?username=chrisLenartowicz&hide=prs&theme=tokyonight" />
-  <img width="250px" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisLenartowicz&theme=tokyonight" />
+  <img width="550px" height="200px" src="https://github-readme-stats.vercel.app/api?username=chrisLenartowicz&hide=prs&theme=tokyonight" />
+  <img width="280px" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisLenartowicz&theme=tokyonight" />
 <div>
