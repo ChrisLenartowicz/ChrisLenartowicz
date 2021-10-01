@@ -10,7 +10,7 @@
   
 <div>
   <a href="https://github.com/ChrisLenartowicz">
-    <img width="550px" height="200px" src="https://github-readme-stats.vercel.app/api?username=chrisLenartowicz&hide=prs&theme=tokyonight" />
-    <img width="280px" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisLenartowicz&theme=tokyonight" />
+    <img width="550px" height="180em" src="https://github-readme-stats.vercel.app/api?username=chrisLenartowicz&hide=prs&theme=tokyonight" />
+    <img width="280px" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisLenartowicz&theme=tokyonight" />
   <a>
 <div>
