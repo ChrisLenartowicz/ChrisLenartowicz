@@ -1,6 +1,6 @@
 ## Eae, eu sou o Christofer!
 
-<h4>Programo a pouco tempo, mas sei que sou bom no que faço kk</h4>
+<h3>Programo a pouco tempo, mas sei que sou bom no que faço kk</h3>
 
 <div>
   <h5>
@@ -10,7 +10,7 @@
   <p>Mas... <a href="https://instagram.com/christofer.lenartowicz">Meu instagram</a></p>
 </div>
 
-<h2>Coisa clichê que todo mundo tem:</h2>
+<h3>Coisa clichê que todo mundo tem:</h3>
 
 <div>
   <a href="https://github.com/ChrisLenartowicz">
