@@ -7,10 +7,10 @@
     Se quiser me seguir em algum lugar, esqueça! Porque só tenho instagram, e não tenho nada lá.
   </h5>
   
-  <p>Mas... <a href="https://instagram.com/christofer.lenartowicz">My instagram</a></p>
+  <p>Mas... <a href="https://instagram.com/christofer.lenartowicz">Meu instagram</a></p>
 </div>
 
-<h2>Coisa clixe que todo mundo tem:</h2>
+<h2>Coisa clichê que todo mundo tem:</h2>
 
 <div>
   <a href="https://github.com/ChrisLenartowicz">
