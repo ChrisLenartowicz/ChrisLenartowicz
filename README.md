@@ -1,13 +1,17 @@
-## Hi, i'm The Best Programmer in the World!
+## Eae, eu sou o Christofer, tenho 16 anos!
+
+Programo a pouco tempo, mas sei que sou bom no que faço kk
 
 <div>
   <h3>
-    Don't follow me anywhere!
+    Se quiser me seguir em algum lugar, esqueça! Porque só tenho instagram, e não tenho nada lá.
   </h3>
   
-  <p>But... <a href="https://instagram.com/christofer.lenartowicz">My instagram</a></p>
+  <p>Mas... <a href="https://instagram.com/christofer.lenartowicz">My instagram</a></p>
 </div>
-  
+
+<h2>Coisa clixe que todo mundo tem:</h2>
+
 <div>
   <a href="https://github.com/ChrisLenartowicz">
     <img width="550px" height="180em" src="https://github-readme-stats.vercel.app/api?username=chrisLenartowicz&hide=prs&theme=tokyonight" />
