@@ -1,4 +1,4 @@
-## Eae, eu sou o Christofer, tenho 16 anos!
+## Eae, eu sou o Christofer!
 
 Programo a pouco tempo, mas sei que sou bom no que faço kk
 
