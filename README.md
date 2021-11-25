@@ -10,6 +10,7 @@
   <p>Mas... <a href="https://instagram.com/christofer.lenartowicz">Meu instagram</a></p>
 </div>
 
+/*
 <h3>Coisa clichê que todo mundo tem:</h3>
 
 <div>
@@ -17,4 +18,4 @@
     <img width="550px" height="180em" src="https://github-readme-stats.vercel.app/api?username=chrisLenartowicz&hide=prs&theme=tokyonight" />
     <img width="280px" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisLenartowicz&theme=tokyonight" />
   <a>
-<div>
+<div>*/
