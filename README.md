@@ -4,8 +4,6 @@
 
 <div>
   <h4>
-    Se quiser me seguir em algum lugar, esqueça! Porque só tenho instagram, e não tenho nada lá.
+    Se quiser me seguir no <a href="https://instagram.com/christofer.lenartowicz">instagram</a>.
   </h4>
-  
-  <p>Mas... <a href="https://instagram.com/christofer.lenartowicz">Meu instagram</a></p>
 </div>
