@@ -4,6 +4,6 @@
 
 <div>
   <h4>
-    Se quiser me seguir no <a href="https://instagram.com/christofer.lenartowicz">instagram</a>.
+    Se quiser me seguir no <a href="https://instagram.com/christofer.lenartowicz" traget="_blanck">instagram</a>.
   </h4>
 </div>
