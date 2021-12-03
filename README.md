@@ -1,6 +1,6 @@
 ## Eae, eu sou o Christofer!
 
-<p>Programo a pouco tempo, mas sei que sou bom no que faço </p>
+<p>Programo a pouco tempo, mas sei que sou bom no que faço!</p>
 
 <div>
   <em>"Eu ia colocar aquelas coiasas cliches que todo mundo coloca, tipo: Estrelinhas, cobrinha comendo os comits e etc...<br>
