@@ -11,7 +11,7 @@
   </h3>
   
   <h4>
-    Gosto sempre de aprender coisas novas, e no momento estou aprendendo JavaScript.
+    Gosto sempre de aprender coisas novas, e agora estou aprendendo JavaScript.
   </h4>
   
   <hr></hr>
