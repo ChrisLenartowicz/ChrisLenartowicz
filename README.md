@@ -3,7 +3,7 @@
 <p>Programo a pouco tempo, mas sei que sou bom no que faço!</p>
 
 <div>
-  <em>"Eu ia colocar aquelas coiasas cliches que todo mundo coloca, tipo: Estrelinhas, cobrinha comendo os comits e etc...<br>
+  <em>"Eu ia colocar aquelas coisas cliches que todo mundo coloca, tipo: Estrelinhas, cobrinha comendo os comits e etc...<br>
   MAS NÃO VOU FAZER ISSO!"</em>
   
   <h3>
