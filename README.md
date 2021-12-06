@@ -20,13 +20,13 @@
     <br>
     <div>
       <figure>
-        <img src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo-10.png" width="70px" height="80px">
+        <img src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo-10.png" width="60px" height="70px">
       </figure>
       <figure>
-        <img src="https://www.logolynx.com/images/logolynx/s_0d/0d35ef6c8d4fdaf0590228404dc6448b.png" width="70px" height="80px">
+        <img src="https://www.logolynx.com/images/logolynx/s_0d/0d35ef6c8d4fdaf0590228404dc6448b.png" width="70px" height="70px">
       </figure>
       <figure>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" width="70px" height="80px">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" width="70px" height="70px">
       </figure>
     </div>
   <div>
