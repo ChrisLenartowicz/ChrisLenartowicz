@@ -2,6 +2,13 @@
 
 #### Programo a quase 1 ano, e estou sempre estudando coisas novas! Atualmente estudo Java.
 
+Tenho 16 anos e sou de Curitiba, ou quase lá...
+
+<br>
+
+Meu Email:
+<a href="mailto:christoferlenartowiz@outlook.com">christoferlenartowicz@outlook.com</a>
+
 <hr>
 
 ### Minhas redes socias!
