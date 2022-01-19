@@ -1,8 +1,7 @@
 ## Eae, eu sou o Christofer Lenartowicz.
 
-#### Programo a quase 1 ano, e estou sempre estudando coisas novas! Atualmente estudo Java.
-
-Tenho 16 anos e sou de Pinhais (Região metropolitana de Curitiba).
+#### Programo desde 2021, e estou sempre estudando coisas novas! Atualmente estudo Java.
+<br> Gosto de usar minha criatividade, e estou sempre disposto a aprender.
 
 <br>
 
