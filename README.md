@@ -1,6 +1,6 @@
 ## Eae, eu sou o Christofer Lenartowicz.
 
-#### Programo desde 2021, e estou sempre estudando coisas novas! Atualmente estudo Java.
+Programo desde 2021, e estou sempre estudando coisas novas! Atualmente estudo Java.
 <br> Gosto de usar minha criatividade, e estou sempre disposto a aprender.
 
 <br>
