@@ -2,7 +2,7 @@
 
 #### Programo a quase 1 ano, e estou sempre estudando coisas novas! Atualmente estudo Java.
 
-Tenho 16 anos e sou de Pinhais (Região metropolitana de Curitiba), ou quase lá...
+Tenho 16 anos e sou de Pinhais (Região metropolitana de Curitiba).
 
 <br>
 
