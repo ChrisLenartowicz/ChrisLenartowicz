@@ -13,9 +13,8 @@ Desenvolvedor Frontend a 1 ano, e estou sempre estudando coisas novas!
 ### Minhas redes socias:
 [![Xbox](https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white)](https://account.xbox.com/pt-br/profile?gamertag=lIyANDR3WyIl)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/christofer.lenartowicz)
-
 <br>
-
+<br>
 ### SKILLS:
 [![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)
 [![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#)
