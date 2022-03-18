@@ -1,6 +1,6 @@
 ## Eae, eu sou o Christofer Lenartowicz.
 
-Sou Desenvolvedor Frontend a 1 ano, e estou sempre estudando coisas novas!
+Desenvolvedor Frontend a 1 ano, e estou sempre estudando coisas novas!
 <br> Gosto de usar minha criatividade, e estou sempre disposto a aprender.
 
 <br> __*Atualmente estudando PHP.*__
