@@ -1,7 +1,7 @@
 ## Eae, eu sou o Christofer Lenartowicz.
 
-Programo desde 2021, e estou sempre estudando coisas novas! Atualmente estudo JavaScript.
-<br> Gosto de usar minha criatividade, e estou sempre disposto a aprender.
+Sou Desenvolvedor Frontend a 1 ano, e estou sempre estudando coisas novas! Atualmente estou aprendo PHP.
+<br> Gosto de usar minha criatividade, e estou sempre disposto a aprender coisas novas.
 
 <br>
 
