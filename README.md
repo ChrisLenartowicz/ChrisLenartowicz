@@ -1,11 +1,10 @@
 ## Eae, eu sou o Christofer Lenartowicz.
 
-Desenvolvedor Frontend a 1 ano, e estou sempre estudando coisas novas!
-<br> Gosto de usar minha criatividade, e estou sempre disposto a aprender.
-
+Desenvolvedor Web com mais de 1 ano de trajetoria,<br>
+com um vasto conhecimento e diversas aplicações já criadas.<br>
 <br> __*Atualmente estudando PHP.*__
 
-<br> Meu Email:
+<br> Email:
 <a href="mailto:christoferlenartowiz@outlook.com">christoferlenartowicz@outlook.com</a>
 
 <hr>
