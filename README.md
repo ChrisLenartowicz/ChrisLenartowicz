@@ -1,8 +1,7 @@
-## Eae, eu sou o Christofer Lenartowicz.
+## Christofer Lenartowicz.
 
-Desenvolvedor Web com mais de 1 ano de trajetoria,<br>
-com um vasto conhecimento e diversas aplicações já criadas.<br>
-<br> __*Atualmente estudando PHP.*__
+- Desenvolvedor Web;
+- Estudando PHP;
 
 <br> Email:
 <a href="mailto:christoferlenartowiz@outlook.com">christoferlenartowicz@outlook.com</a>
