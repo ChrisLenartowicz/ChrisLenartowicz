@@ -3,8 +3,6 @@
 - Web Developer;
 - Learning PHP;
 
-<a href="mailto:christoferlenartowiz@outlook.com">christoferlenartowicz@outlook.com</a>
-
 <hr>
 
 ### social medias:
@@ -17,3 +15,7 @@
 [![](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](#)
 [![](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)](#)
 [![](https://img.shields.io/badge/MySQL-007690?logo=mysql&logoColor=white&labelColor=fe7d37)](#)
+
+<hr>
+
+<a href="mailto:christoferlenartowiz@outlook.com">christoferlenartowicz@outlook.com</a>
