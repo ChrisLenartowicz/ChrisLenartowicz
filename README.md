@@ -1,4 +1,4 @@
-## Christofer Lenartowicz.
+## Christofer Lenartowicz
 
 - Web Developer;
 - Learning PHP;
