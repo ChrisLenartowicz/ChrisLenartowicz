@@ -1,11 +1,10 @@
 ## Christofer Lenartowicz
 
 - Web Developer;
-- Learning PHP;
 
 <hr>
 
-### social medias:
+### social media:
 [![Xbox](https://img.shields.io/badge/Xbox-107C10?logo=xbox&logoColor=white)](https://account.xbox.com/pt-br/profile?gamertag=lIyANDR3WyIl)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/christofer.lenartowicz)
 ### skills:
